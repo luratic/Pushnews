@@ -10,7 +10,9 @@ ___INFO___
 
 {
   "displayName": "Push News",
-  "categories": ["ADVERTISING"],
+  "categories": [
+    "ADVERTISING"
+  ],
   "description": "Pushnews is a web push notifications provider. With push notifications you can increase your website traffic by bringing your users back.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
@@ -49,10 +51,11 @@ ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 // Introduzca aquí su código de plantilla.
 const log = require('logToConsole');
 const injectScript = require('injectScript');
+const encodeUriComponent = require('encodeUriComponent');
 
 log('data =', data);
 
-const trackingUrl = 'https://cdn.pn.vg/sites/' + data.accountId + '.js';
+const trackingUrl = 'https://cdn.pn.vg/sites/' + encodeUriComponent(data.accountId) + '.js';
 injectScript(trackingUrl,data.gtmOnSuccess,data.gtmOnFailure,'pushNewsPx');
 
 
