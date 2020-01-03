@@ -1,3 +1,5 @@
 versions:
+  - sha: 80701ada62f55cebd4924030b695b3ca81586766
+    changeNotes: fix uri encoding
   - sha: bc68e93401653fcc554e8f5c98421518bc594725
     changeNotes: Initial release.
