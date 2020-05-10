@@ -9,17 +9,20 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
-  "displayName": "Push News",
+  "displayName": "Pushnews",
   "categories": [
-    "ADVERTISING"
+    "ADVERTISING", 
+    "LEAD_GENERATION",
+    "MARKETING", 
+    "REMARKETING"
   ],
-  "description": "Pushnews is a web push notifications provider. With push notifications you can increase your website traffic by bringing your users back.",
+  "description": "Pushnews is a Web Push Notifications provider. With Push Notifications you can increase your website traffic by bringing your users back.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
   "version": 1,
   "brand": {
-    "thumbnail": "data:image/png;base64,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\u003d\u003d",
+    "thumbnail": "data:image/png;base64,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\u003d",
     "displayName": "",
     "id": "brand_dummy"
   },
@@ -34,28 +37,28 @@ ___TEMPLATE_PARAMETERS___
 [
   {
     "simpleValueType": true,
-    "name": "accountId",
+    "name": "siteId",
     "type": "TEXT",
     "valueValidators": [
       {
         "type": "NON_EMPTY"
       }
     ],
-    "displayName": "Account Id"
+    "displayName": "Site ID",
+    "help": "Your Site\u0027s Pushnews ID. You can get it on Pushnews \u003e My Sites"
   }
 ]
 
 
 ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
-// Introduzca aquí su código de plantilla.
 const log = require('logToConsole');
 const injectScript = require('injectScript');
 const encodeUriComponent = require('encodeUriComponent');
 
 log('data =', data);
 
-const trackingUrl = 'https://cdn.pn.vg/sites/' + encodeUriComponent(data.accountId) + '.js';
+const trackingUrl = 'https://cdn.pn.vg/sites/' + encodeUriComponent(data.siteId) + '.js';
 injectScript(trackingUrl,data.gtmOnSuccess,data.gtmOnFailure,'pushNewsPx');
 
 
@@ -116,6 +119,6 @@ scenarios: []
 
 ___NOTES___
 
-Plantilla Ligatus v1
+Pushnews javascript tag template for Google Tag Manager
 
 
