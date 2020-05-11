@@ -45,7 +45,7 @@ ___TEMPLATE_PARAMETERS___
       }
     ],
     "displayName": "Site ID",
-    "help": "Your Site\u0027s Pushnews ID. You can get it on Pushnews \u003e My Sites"
+    "help": "Your Site\u0027s Pushnews ID. You can get it on Pushnews \u003e My Sites."
   }
 ]
 
