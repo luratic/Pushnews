@@ -1,11 +1,7 @@
 versions:
-  - sha: 78a8f3afaa2f12830f7c623fde015d8f6c6233b4
+  - sha: 0e935683065d62bf7b6479f6ec70768d841ed5f3
     changeNotes: 
       Changed "displayName" to "Pushnews"
       Updated "thumbnail"
       Changed Field name from "accountId" to "siteId"
       Several improvements
-  - sha: 80701ada62f55cebd4924030b695b3ca81586766
-    changeNotes: fix uri encoding
-  - sha: bc68e93401653fcc554e8f5c98421518bc594725
-    changeNotes: Initial release.
