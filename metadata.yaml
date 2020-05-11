@@ -1,5 +1,5 @@
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874c
+  - sha: 78a8f3afaa2f12830f7c623fde015d8f6c6233b4
     changeNotes: 
       Changed "displayName" to "Pushnews"
       Updated "thumbnail"
