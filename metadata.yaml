@@ -1,3 +1,5 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/pushnews/"
 versions:
   - sha: 0e935683065d62bf7b6479f6ec70768d841ed5f3
     changeNotes: 
