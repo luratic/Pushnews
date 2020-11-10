@@ -1,8 +1,12 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/tags/pushnews/"
 versions:
+  # Latest version
+  - sha: 803838fdc75569880db165522e8ece85ab87aa5f
+    changeNotes: Improve and update documentation.
+  # Older versions  
   - sha: 0e935683065d62bf7b6479f6ec70768d841ed5f3
-    changeNotes: 
+    changeNotes: |2
       Changed "displayName" to "Pushnews"
       Updated "thumbnail"
       Changed Field name from "accountId" to "siteId"
