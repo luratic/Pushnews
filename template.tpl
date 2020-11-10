@@ -146,4 +146,9 @@ ___NOTES___
 
 Pushnews javascript tag template for Google Tag Manager
 
-
+Developed with ❤ by: Alfonso, Txema and Brais.
+Web: www.luratic.com
+Linkedin: 
+https://www.linkedin.com/in/braiscalvo/
+https://www.linkedin.com/in/alfonsorc/
+https://www.linkedin.com/in/txema-s%C3%A1nchez-a48482ba/
